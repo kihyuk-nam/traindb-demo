@@ -1,1 +1,1 @@
-# traindb-jar
+# traindb-demo
